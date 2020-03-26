@@ -1,0 +1,1 @@
+taskkill /IM electron-node-red.exe /F

@@ -31,6 +31,7 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 [Files]
 Source: ".config.json"; DestDir: "{app}"; Flags: ignoreversion
 Source: ".config.json.backup"; DestDir: "{app}"; Flags: ignoreversion
+Source: "forcequit.bat"; DestDir: "{app}"; Flags: ignoreversion
 Source: "flows.json"; DestDir: "{app}"; Flags: ignoreversion
 Source: "flows_cred.json"; DestDir: "{app}"; Flags: ignoreversion
 Source: "package.json"; DestDir: "{app}"; Flags: ignoreversion
